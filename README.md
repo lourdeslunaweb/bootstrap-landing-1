@@ -2,6 +2,7 @@
 Página realizada como práctica en mi aprendizaje del framework CSS Bootstrap.
 
 ## Deploy:
+https://lourdeslunaweb.github.io/bootstrap-landing-1/
 
 
 ### Funcionalidades:
